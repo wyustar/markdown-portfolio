@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Frank Wang
+## Chinese
+### Fresh in coding & GitHub
